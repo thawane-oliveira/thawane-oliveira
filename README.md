@@ -1,4 +1,4 @@
-### Hi there 👋
+![thawane-oliveira Status](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true)
 
 <!--
 **thawane-oliveira/thawane-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
