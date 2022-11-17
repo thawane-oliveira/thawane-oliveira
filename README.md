@@ -3,7 +3,7 @@
 <ul>
   <li>Tenho 26 anos e sou natural de São Vicente/SP, mas agora resido em São Paulo/SP.</li>
   <li>Estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de front-end.</li>
-  <li>Meus hobbies são desenhar e jogar (principalmente se for SNES ou PSX).</li>
+  <li>Meus hobbies são desenhar e jogar (principalmente jogos de SNES ou PSX).</li>
 </ul>
 
 <h2>Redes sociais e contato</h2>
