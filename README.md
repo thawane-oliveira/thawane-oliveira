@@ -1,4 +1,6 @@
-![thawane-oliveira Status](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true)
+![Thawane GitHub stats](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawane-oliveira&theme=dracula&layout=compact)](https://github.com/thawane-oliveira/github-readme-stats)
+
+
 
 <!--
 **thawane-oliveira/thawane-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
