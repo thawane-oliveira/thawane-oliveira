@@ -1,6 +1,7 @@
 <h2>Oi, eu sou Thawane</h2>
 
-<img src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Garota sentada em cadeira enquanto realiza pesquisas no computador de mesa(desktop). Ela está de costas para a câmera.">
+
 
 <p align="left"> 
  ☆ Tenho 26 anos e sou natural de São Vicente/SP, mas agora resido em São Paulo/SP.
