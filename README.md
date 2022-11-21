@@ -8,7 +8,7 @@
   
  ☆ Estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de front-end.
   
- ☆ Meus hobbies são desenhar e jogar (principalmente jogos de SNES ou PSX).
+ ☆ Meus hobbies são desenhar e jogar (principalmente SNES ou PSX).
 </p>
 
 <h2>Redes sociais e contato</h2>
