@@ -13,6 +13,11 @@
 
 <h2>Redes sociais e contato</h2>
 
+<p >E-mail: thawaneapoliveira@gmail.com
+<br/>
+LinkedIn: www.linkedin.com/in/thawane
+ </p>
+
 <a href="https://instagram.com/chicharroralado" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thawane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:thawaneapoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,11 +27,11 @@
 
 
 <div>
-<!--  <h2> GitHub Stats </h2>
+<h2> GitHub Stats </h2>
 
 ![Thawane GitHub stats](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true&theme=dracula)
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawane-oliveira&theme=dracula&layout=compact)](https://github.com/thawane-oliveira/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawane-oliveira&theme=dracula&layout=compact)](https://github.com/thawane-oliveira/github-readme-stats)
  
 </div>
 
