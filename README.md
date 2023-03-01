@@ -6,7 +6,7 @@
  <ul>
  <li>Tenho 26 anos e sou natural de São Vicente/SP, mas agora resido em São Paulo/SP.</li>
   
- <li>Estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de front-end.</li>
+ <li>Estou em transição de carreira e estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de back-end. Almejo ser desenvolvedora em breve. :)</li>
   
  <li>Meus hobbies são desenhar e jogar (principalmente NES/SNES ou PSX).</li>
 </ul>
