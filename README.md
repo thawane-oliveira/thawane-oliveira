@@ -3,13 +3,13 @@
 <img src="https://i.pinimg.com/originals/13/0a/ec/130aec120d0fad24a35245b5f6c9071a.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Garota sentada em cadeira enquanto realiza pesquisas no computador de mesa(desktop). Ela está de costas para a câmera.">
 
 
-<p align="left"> 
- ☆ Tenho 26 anos e sou natural de São Vicente/SP, mas agora resido em São Paulo/SP.
+ <ul>
+ <li>Tenho 26 anos e sou natural de São Vicente/SP, mas agora resido em São Paulo/SP.</li>
   
- ☆ Estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de front-end.
+ <li>Estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank">Trybe</a>, e atualmente no final do módulo de front-end.</li>
   
- ☆ Meus hobbies são desenhar e jogar (principalmente NES/SNES ou PSX).
-</p>
+ <li>Meus hobbies são desenhar e jogar (principalmente NES/SNES ou PSX).</li>
+</ul>
 
 <h2>Redes sociais e contato</h2>
 
