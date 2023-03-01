@@ -11,7 +11,7 @@
  <li>Meus hobbies são desenhar e jogar (principalmente NES/SNES ou PSX).</li>
 </ul>
 
-<h2>Redes sociais e contato</h2>
+<h2>Contato</h2>
 
 <!-- <p >E-mail: thawaneapoliveira@gmail.com
 <br/>
