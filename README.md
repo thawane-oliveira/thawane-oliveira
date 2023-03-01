@@ -35,9 +35,7 @@ LinkedIn: www.linkedin.com/in/thawane
 <div>
 <h2> GitHub Stats </h2>
 
-![Thawane GitHub stats](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true&theme=dracula)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawane-oliveira&theme=dracula&layout=compact)](https://github.com/thawane-oliveira/github-readme-stats)
+![Thawane GitHub stats](https://github-readme-stats.vercel.app/api?username=thawane-oliveira&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawane-oliveira&theme=dracula&layout=compact)](https://github.com/thawane-oliveira/github-readme-stats)
  
 </div>
 
